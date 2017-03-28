@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="CenterTurkHD/android_device_huawei_u8665"	path="device/huawei/u8655"	remote="github" revision="master" />
+	<project name="supertoast/kernel-2.6.38.6-U8815-Gingerbread"	path="kernel/huawei/u8655"	remote="github" revision="master" />
+	<project name="IXgnas/android_vendor_huawei_u8655"	path="vendor/huawei/u8655"	remote="github" revision="master" />
+</manifest>
